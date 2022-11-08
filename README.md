@@ -1,4 +1,4 @@
-## Hello there, I'm Olexandr :octocat:
+## Hello there. I'm Olexandr, a beginner fullstack web developer. Try my best to study something new. :man_technologist: 
 
 ### Skill and Tools:
 
@@ -29,6 +29,8 @@
 [<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>][telegram]
 
 [<img align="left" alt="Webpack" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>][telegram]
+
+[<img align="left" alt="Firebase" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>][telegram]
 
 <br />
 <br />
